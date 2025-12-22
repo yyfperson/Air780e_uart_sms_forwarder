@@ -2,6 +2,8 @@
 
 基于 Air780EHV 780EHM 设备的短信转发系统，支持接收短信并通过串口转发到上位机。
 
+[项目说明](https://www.typesafe.cn/posts/air780e-giffgaff/)
+
 **已测试设备**
 
 - Air780EHV
